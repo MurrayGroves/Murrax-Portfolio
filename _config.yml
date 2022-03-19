@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Murrax
+tagline:          'Code Wrangler'
+description:      '<strong>Rust</strong> and <strong>Python</strong> code wrangler'
+url:              /
+baseurl:          /
+
+author:
+  name:           'Murrax'
+  url:            https://twitter.com/MurraxDev
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+#github:
+#  repo:           https://github.com/poole/hyde
